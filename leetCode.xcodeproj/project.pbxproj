@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		9F3EF8812B464F000054A100 /* 1.twosum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.twosum.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		9F3EF87A2B464EEA0054A100 = {
+			isa = PBXGroup;
+			children = (
+				9F3EF8812B464F000054A100 /* 1.twosum.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		9F3EF87B2B464EEA0054A100 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 9F3EF87E2B464EEA0054A100 /* Build configuration list for PBXProject "leetCode" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9F3EF87A2B464EEA0054A100;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		9F3EF87F2B464EEA0054A100 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		9F3EF8802B464EEA0054A100 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9F3EF87E2B464EEA0054A100 /* Build configuration list for PBXProject "leetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F3EF87F2B464EEA0054A100 /* Debug */,
+				9F3EF8802B464EEA0054A100 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9F3EF87B2B464EEA0054A100 /* Project object */;
+}
