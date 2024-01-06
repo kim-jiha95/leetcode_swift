@@ -11,12 +11,14 @@
 		9F3EF8832B4670250054A100 /* palindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = palindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3EF8842B46792A0054A100 /* romantoInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = romantoInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD607282B47E47F00D15B0F /* longestcommonprefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = longestcommonprefix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE728672B498A3B00DEB6C7 /* addTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = addTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9FE728672B498A3B00DEB6C7 /* addTwoNumbers.playground */,
 				9FD607282B47E47F00D15B0F /* longestcommonprefix.playground */,
 				9F3EF8842B46792A0054A100 /* romantoInteger.playground */,
 				9F3EF8832B4670250054A100 /* palindromeNumber.playground */,
