@@ -1,5 +1,4 @@
 import UIKit
-
 let word = ["aya", "ye", "woo", "ma"]
 var result = 0
 
