@@ -15,6 +15,7 @@
 		9F774CBD2B4E37B5001D630C /* germ.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = germ.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F774CBE2B4E3B72001D630C /* LongestSubstringWIthoutREpeatingCharacters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LongestSubstringWIthoutREpeatingCharacters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F774CBF2B4E649F001D630C /* ConcatenationOfArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatenationOfArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCD39B52B4FB27B003BD006 /* letter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = letter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD607282B47E47F00D15B0F /* longestcommonprefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = longestcommonprefix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE728672B498A3B00DEB6C7 /* addTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = addTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -23,6 +24,7 @@
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9FCD39B52B4FB27B003BD006 /* letter.playground */,
 				9F774CBF2B4E649F001D630C /* ConcatenationOfArray.playground */,
 				9F774CBE2B4E3B72001D630C /* LongestSubstringWIthoutREpeatingCharacters.playground */,
 				9F774CBD2B4E37B5001D630C /* germ.playground */,
