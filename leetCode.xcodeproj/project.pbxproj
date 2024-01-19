@@ -23,6 +23,7 @@
 		9F4E40432B58FD0C00BAFABA /* countarrayofstring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = countarrayofstring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E40442B59051400BAFABA /* regularexpressionmatching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = regularexpressionmatching.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5432652B5A6A3A00E5443B /* addDigit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = addDigit.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F5432662B5A6CEC00E5443B /* containerWithMostWater.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = containerWithMostWater.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F774CBD2B4E37B5001D630C /* germ.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = germ.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F774CBE2B4E3B72001D630C /* LongestSubstringWIthoutREpeatingCharacters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LongestSubstringWIthoutREpeatingCharacters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F774CBF2B4E649F001D630C /* ConcatenationOfArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatenationOfArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -36,6 +37,7 @@
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9F5432662B5A6CEC00E5443B /* containerWithMostWater.playground */,
 				9F5432652B5A6A3A00E5443B /* addDigit.playground */,
 				9F4E40442B59051400BAFABA /* regularexpressionmatching.playground */,
 				9F4E40432B58FD0C00BAFABA /* countarrayofstring.playground */,
