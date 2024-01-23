@@ -10,6 +10,7 @@
 		9F005A832B564028002F9CEE /* findDivisor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = findDivisor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F005A842B564136002F9CEE /* reverseInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = reverseInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0769CA2B5F808100697A79 /* 3sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0769CB2B5F89B700697A79 /* seoulKim.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = seoulKim.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F28CB3A2B4CFFAB00FB6F1E /* babbling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = babbling.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F28CB3B2B4D112E00FB6F1E /* arrayAccuracy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = arrayAccuracy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29A0D62B54FBF600C79919 /* biggestnumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = biggestnumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -41,6 +42,7 @@
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9F0769CB2B5F89B700697A79 /* seoulKim.playground */,
 				9F0769CA2B5F808100697A79 /* 3sum.playground */,
 				9F6DB2152B5E0C4600D6369E /* evenOdd.playground */,
 				9F3190D52B5D54E60070161A /* intertoroman.playground */,
