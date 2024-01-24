@@ -26,6 +26,7 @@
 		9F4075D22B578A2F00D95354 /* atoi.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = atoi.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E40432B58FD0C00BAFABA /* countarrayofstring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = countarrayofstring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E40442B59051400BAFABA /* regularexpressionmatching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = regularexpressionmatching.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4EB2982B60C78D00E2B9E2 /* hashadNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = hashadNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5432652B5A6A3A00E5443B /* addDigit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = addDigit.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5432662B5A6CEC00E5443B /* containerWithMostWater.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = containerWithMostWater.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DB2152B5E0C4600D6369E /* evenOdd.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = evenOdd.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -42,6 +43,7 @@
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9F4EB2982B60C78D00E2B9E2 /* hashadNumber.playground */,
 				9F0769CB2B5F89B700697A79 /* seoulKim.playground */,
 				9F0769CA2B5F808100697A79 /* 3sum.playground */,
 				9F6DB2152B5E0C4600D6369E /* evenOdd.playground */,
