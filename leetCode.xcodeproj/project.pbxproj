@@ -12,6 +12,7 @@
 		9F0769CA2B5F808100697A79 /* 3sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0769CB2B5F89B700697A79 /* seoulKim.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = seoulKim.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1B24292B6247740066416E /* removeSmallestNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = removeSmallestNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F1B242A2B624A310066416E /* combinationPhoneNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = combinationPhoneNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F28CB3A2B4CFFAB00FB6F1E /* babbling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = babbling.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F28CB3B2B4D112E00FB6F1E /* arrayAccuracy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = arrayAccuracy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29A0D62B54FBF600C79919 /* biggestnumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = biggestnumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -45,6 +46,7 @@
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9F1B242A2B624A310066416E /* combinationPhoneNumber.playground */,
 				9F1B24292B6247740066416E /* removeSmallestNumber.playground */,
 				9F4EB2992B60CE6B00E2B9E2 /* 3sumcloset.playground */,
 				9F4EB2982B60C78D00E2B9E2 /* hashadNumber.playground */,
