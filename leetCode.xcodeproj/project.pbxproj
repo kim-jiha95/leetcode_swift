@@ -42,12 +42,14 @@
 		9FCD39B62B4FB36E003BD006 /* medianoftwosortedarrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = medianoftwosortedarrays.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD607282B47E47F00D15B0F /* longestcommonprefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = longestcommonprefix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE728672B498A3B00DEB6C7 /* addTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = addTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF934DF2B70CF760026E689 /* anySome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = anySome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9FF934DF2B70CF760026E689 /* anySome.playground */,
 				9F348EB12B6358E100FEA918 /* 4Sum.playground */,
 				9F348EB02B6356CF00FEA918 /* dividedNumberArray.playground */,
 				9F1B242A2B624A310066416E /* combinationPhoneNumber.playground */,
