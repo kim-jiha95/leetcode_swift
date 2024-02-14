@@ -45,6 +45,7 @@
 		9FD607282B47E47F00D15B0F /* longestcommonprefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = longestcommonprefix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE728672B498A3B00DEB6C7 /* addTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = addTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE7C0F22B7642D000724651 /* remainder1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = remainder1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF8B4C52B7CBB3C004C6E1C /* addNonExistNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = addNonExistNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF934DF2B70CF760026E689 /* anySome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = anySome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -52,6 +53,7 @@
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9FF8B4C52B7CBB3C004C6E1C /* addNonExistNumber.playground */,
 				9FE7C0F22B7642D000724651 /* remainder1.playground */,
 				9F3528D92B71ECE3002224F1 /* validParentheses.playground */,
 				9F3528D82B71E766002224F1 /* hidePhoneNum.playground */,
