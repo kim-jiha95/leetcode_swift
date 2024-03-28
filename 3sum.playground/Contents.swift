@@ -39,3 +39,5 @@ func threeSum(_ nums: [Int]) -> [[Int]] {
     
 }
 threeSum([1,-1, 0, 2, -2])
+
+

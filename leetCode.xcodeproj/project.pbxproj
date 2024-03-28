@@ -40,6 +40,7 @@
 		9F774CBD2B4E37B5001D630C /* germ.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = germ.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F774CBE2B4E3B72001D630C /* LongestSubstringWIthoutREpeatingCharacters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LongestSubstringWIthoutREpeatingCharacters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F774CBF2B4E649F001D630C /* ConcatenationOfArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatenationOfArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F7D065B2BB5BFAA00FAB294 /* watermelon.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = watermelon.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD39B52B4FB27B003BD006 /* letter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = letter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD39B62B4FB36E003BD006 /* medianoftwosortedarrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = medianoftwosortedarrays.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD607282B47E47F00D15B0F /* longestcommonprefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = longestcommonprefix.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -53,6 +54,7 @@
 		9F3EF87A2B464EEA0054A100 = {
 			isa = PBXGroup;
 			children = (
+				9F7D065B2BB5BFAA00FAB294 /* watermelon.playground */,
 				9FF8B4C52B7CBB3C004C6E1C /* addNonExistNumber.playground */,
 				9FE7C0F22B7642D000724651 /* remainder1.playground */,
 				9F3528D92B71ECE3002224F1 /* validParentheses.playground */,
